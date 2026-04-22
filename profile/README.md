@@ -32,4 +32,12 @@ Founded by **Alexander Kirsch-Clayton** — German-American, Berlin-based. Opera
 
 ---
 
+## Über uns
+
+KI-gestützte Web-, Server- und GEO-Services für den deutschen B2B-Markt. Festpreise, keine Agenturaufschläge, deutschsprachige Ansprechpartner hinter jedem Ticket. Infrastruktur auf Hetzner in Falkenstein. DSGVO-nativ.
+
+Die hier veröffentlichten Tools stammen aus unserer eigenen Audit-Pipeline und sind MIT-lizenziert nutzbar. Mehr Infos zu Leistungen und Preisen unter [digitaldomination.xyz](https://digitaldomination.xyz).
+
+---
+
 *Built in Berlin. Running on Hetzner. DSGVO-native.*
