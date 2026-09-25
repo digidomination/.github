@@ -14,6 +14,7 @@ Tools we've extracted from our audit pipeline and open-sourced. All MIT-licensed
 |---|---|
 | [**geo-security-headers**](https://github.com/digidomination/geo-security-headers) | HTTP security-header audit in Bash. Grades A+ through F per OWASP Secure Headers + Scott Helme rubric. Offline, no securityheaders.com dependency. |
 | [**geo-gbp-lookup**](https://github.com/digidomination/geo-gbp-lookup) | Google Business Profile status lookup via the Places API. Classifies a profile as claimed, maintained, or neither — with signal-level reasoning. |
+| [**markdown-for-agents**](https://github.com/digidomination/markdown-for-agents) | Serves every page as clean Markdown to AI agents (`Accept: text/markdown` and `.md` URLs), straight from your PHP app. A self-hosted take on Cloudflare's Markdown for Agents: 91% fewer tokens on our own sites, no dependencies. |
 
 ## What we work on
 
